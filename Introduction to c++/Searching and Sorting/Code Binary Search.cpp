@@ -3,8 +3,6 @@ using namespace std;
 
 #include "solution.h"
 
-
-
 int binarySearch(int *input, int n, int val)
 {
     //Write your code here
