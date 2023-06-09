@@ -1,1 +1,1 @@
-# coading-ninjas-programing-solutions
+# coading-ninjas-programing-solution
